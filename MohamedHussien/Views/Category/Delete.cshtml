@@ -1,0 +1,40 @@
+﻿@model MohamedHussien.Models.Category
+
+
+<div class=" card-shadow border-0 mt-4 ">
+    <div class="card-header bg-secondry bg-gradient ml-0 py-3 bg-primary ">
+        <div class=" row ">
+            <div class=" col-16 text-center ">
+                <br />
+                <h2 class=" text-white  py-2"> Delete Category   </h2>
+                <br />
+            </div>
+        </div>
+    </div>
+    <br /><br />
+
+    <form method="post">
+
+        <div class="form-group">
+            <label class="form-label mt-4"></label>
+            <input asp-for=Name class="form-control" disabled>
+
+        </div>
+        <div class="form-group">
+            <label class="form-label mt-4"></label>
+            <input asp-for=CategoryState class="form-control" disabled>
+
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-6">
+                <button type="submit" class="btn btn-danger form-control">Delete</button>
+            </div>
+            <div class="col-6">
+                <a asp-controller="Category" asp-action="Index" class="btn btn-secondary border form-control">Back To Home</a>
+            </div>
+        </div>
+
+    </form>
+
+</div>

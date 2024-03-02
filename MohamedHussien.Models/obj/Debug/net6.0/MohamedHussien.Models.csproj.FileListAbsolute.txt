@@ -1,0 +1,12 @@
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Models\bin\Debug\net6.0\MohamedHussien.Models.deps.json
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Models\bin\Debug\net6.0\MohamedHussien.Models.dll
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Models\bin\Debug\net6.0\MohamedHussien.Models.pdb
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Models\obj\Debug\net6.0\MohamedHussien.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Models\obj\Debug\net6.0\MohamedHussien.Models.AssemblyInfoInputs.cache
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Models\obj\Debug\net6.0\MohamedHussien.Models.AssemblyInfo.cs
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Models\obj\Debug\net6.0\MohamedHussien.Models.csproj.CoreCompileInputs.cache
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Models\obj\Debug\net6.0\MohamedHussien.Models.dll
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Models\obj\Debug\net6.0\refint\MohamedHussien.Models.dll
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Models\obj\Debug\net6.0\MohamedHussien.Models.pdb
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Models\obj\Debug\net6.0\ref\MohamedHussien.Models.dll
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Models\obj\Debug\net6.0\MohamedHussien.Models.csproj.AssemblyReference.cache

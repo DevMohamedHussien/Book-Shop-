@@ -1,0 +1,35 @@
+﻿@model IEnumerable<MohamedHussien.Models.Product>
+
+<div class=" card-shadow border-0 mt-4 ">
+    <div class="card-header bg-secondry bg-gradient ml-0 py-3 bg-primary ">
+        <div class=" row ">
+            <div class=" col-16 text-center ">
+                <br>
+                <h2 class=" text-white  py-2">Product Table</h2>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="col-4  ">
+        <a asp-controller="Product" asp-action="UpSert" class="btn btn-primary border col-4 form-control end">Create product</a>
+    </div>
+</div>
+<div class=" card-body p-4 ">
+    <table id="tblData" class="table table-bordered table-striped" style="width:100%">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>ISBN</th>
+                <th>Author</th>
+                <th>Price</th>
+                <th>Category</th>
+                <th>Id</th>
+            </tr>
+        </thead>
+    </table>
+</div>
+@section Scripts{
+    <script src="~/js/product.js"></script>
+
+}

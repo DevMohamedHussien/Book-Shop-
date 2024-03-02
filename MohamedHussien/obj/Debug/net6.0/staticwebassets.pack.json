@@ -1,0 +1,373 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MohamedHussien.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MohamedHussien.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\0534ac95-bdce-4719-84ec-11274ed811ee.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\0534ac95-bdce-4719-84ec-11274ed811ee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\18b49251-34ae-4ecd-8f22-4bcad3e40f83.jfif",
+      "PackagePath": "staticwebassets\\Images\\Product\\18b49251-34ae-4ecd-8f22-4bcad3e40f83.jfif"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\19ad89fc-30a7-4bbf-8a00-21963e57dc37.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\19ad89fc-30a7-4bbf-8a00-21963e57dc37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\1f25df6a-7b12-4771-8805-ae13dbf0612d.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\1f25df6a-7b12-4771-8805-ae13dbf0612d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\20082594-43d4-486e-bb16-c5035511cd11.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\20082594-43d4-486e-bb16-c5035511cd11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\21325f7d-800a-48df-b31d-0a2ce2ee13dd.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\21325f7d-800a-48df-b31d-0a2ce2ee13dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\32b25de1-f15b-4ff5-9c97-33502c3b3b1a.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\32b25de1-f15b-4ff5-9c97-33502c3b3b1a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\3e1b09c9-29c4-4531-8375-8d85631b779e.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\3e1b09c9-29c4-4531-8375-8d85631b779e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\44135ed1-90b9-4c52-98c9-cdc406615a9f.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\44135ed1-90b9-4c52-98c9-cdc406615a9f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\4b35b459-f9c2-4a1b-bc47-67700f90f43f.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\4b35b459-f9c2-4a1b-bc47-67700f90f43f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\57d7cb45-0441-43db-bdc2-adcd2c3caf83.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\57d7cb45-0441-43db-bdc2-adcd2c3caf83.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\57f8bd67-d841-4016-a995-e1a579b8db63.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\57f8bd67-d841-4016-a995-e1a579b8db63.png"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\6479fa13-49b3-4412-af8f-c8fc82e37c75.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\6479fa13-49b3-4412-af8f-c8fc82e37c75.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\7b6dade4-6906-4d10-8425-9f9f6dcf78e0.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\7b6dade4-6906-4d10-8425-9f9f6dcf78e0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\824033f1-6681-4703-b275-07f9094547ed.JPG",
+      "PackagePath": "staticwebassets\\Images\\Product\\824033f1-6681-4703-b275-07f9094547ed.JPG"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\844db5b2-b7c1-4c13-989c-a0657e905e81.JPG",
+      "PackagePath": "staticwebassets\\Images\\Product\\844db5b2-b7c1-4c13-989c-a0657e905e81.JPG"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\b19492b0-6a7d-4c71-9dd7-b4d9b262a48e.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\b19492b0-6a7d-4c71-9dd7-b4d9b262a48e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\c419b1a6-c058-4680-9c04-5e1930e5cda7.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\c419b1a6-c058-4680-9c04-5e1930e5cda7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\d6dd00a5-f1cb-4ea6-a535-ca722e4641df.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\d6dd00a5-f1cb-4ea6-a535-ca722e4641df.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\db4c1c63-ddf9-4021-bedd-bb1a8ffe5983.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\db4c1c63-ddf9-4021-bedd-bb1a8ffe5983.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\ebeef960-8678-41f2-af8c-daa2b06a2138.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\ebeef960-8678-41f2-af8c-daa2b06a2138.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\edd527c4-84ce-4c4d-9dbb-2cb08ffd3fb4.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\edd527c4-84ce-4c4d-9dbb-2cb08ffd3fb4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\fcd3f552-1890-4509-94f7-a0ea1edded9f.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\fcd3f552-1890-4509-94f7-a0ea1edded9f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\Images\\Product\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\js\\Company.js",
+      "PackagePath": "staticwebassets\\js\\Company.js"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\js\\Product.js",
+      "PackagePath": "staticwebassets\\js\\Product.js"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NOBEL\\source\\repos\\MohamedHussienWeb\\MohamedHussien\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MohamedHussien.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MohamedHussien.props",
+      "PackagePath": "build\\MohamedHussien.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MohamedHussien.props",
+      "PackagePath": "buildMultiTargeting\\MohamedHussien.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MohamedHussien.props",
+      "PackagePath": "buildTransitive\\MohamedHussien.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

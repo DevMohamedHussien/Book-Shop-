@@ -1,0 +1,17 @@
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.DAL\obj\Debug\net6.0\MohamedHussien.DAL.csproj.AssemblyReference.cache
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.DAL\obj\Debug\net6.0\MohamedHussien.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.DAL\obj\Debug\net6.0\MohamedHussien.DAL.AssemblyInfoInputs.cache
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.DAL\obj\Debug\net6.0\MohamedHussien.DAL.AssemblyInfo.cs
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.DAL\obj\Debug\net6.0\MohamedHussien.DAL.csproj.CoreCompileInputs.cache
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.DAL\bin\Debug\net6.0\MohamedHussien.DAL.deps.json
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.DAL\bin\Debug\net6.0\MohamedHussien.DAL.dll
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.DAL\bin\Debug\net6.0\MohamedHussien.DAL.pdb
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.DAL\bin\Debug\net6.0\MohamedHussien.Models.dll
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.DAL\bin\Debug\net6.0\MohamedHussien.Models.pdb
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.DAL\obj\Debug\net6.0\MohamedHussien.DAL.csproj.CopyComplete
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.DAL\obj\Debug\net6.0\MohamedHussien.DAL.dll
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.DAL\obj\Debug\net6.0\refint\MohamedHussien.DAL.dll
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.DAL\obj\Debug\net6.0\MohamedHussien.DAL.pdb
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.DAL\obj\Debug\net6.0\ref\MohamedHussien.DAL.dll
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.DAL\bin\Debug\net6.0\MohamedHussien.DAL.runtimeconfig.json
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.DAL\obj\Debug\net6.0\MohamedHussien.DAL.genruntimeconfig.cache

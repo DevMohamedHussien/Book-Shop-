@@ -1,0 +1,97 @@
+﻿
+@model MohamedHussien.Models.ViewModels.ProductVM 
+
+<div class=" card-shadow border-0 mt-4 ">
+    <div class="card-header bg-secondry bg-gradient ml-0 py-3 bg-primary ">
+        <div class=" row ">
+            <div class=" col-16 text-center ">
+                <h2 class=" text-white  py-2">@(Model.Product.Id == 0 ? "Update" : "Create") Product  </h2>
+            </div>
+        </div>
+    </div>
+    <div class=" card-body p-4 ">
+        <form method="post" class="row " enctype="multipart/form-data">
+            <div asp-validation-summary="All"></div>
+            <div class="row">
+                <div class="col-10">
+                    <input asp-for=Product.Id class="form-control" hidden>
+                    <input asp-for=Product.ImageUrl class="form-control" hidden>
+                    <div class="form-group">
+                        <label class="form-label mt-4">Title</label>
+                        <input asp-for=Product.Title class="form-control">
+                        <span asp-validation-for="Product.Title" class="text -danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label mt-4">Author</label>
+                        <input asp-for=Product.Author class="form-control">
+                        <span asp-validation-for="Product.Author" class="text -danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label mt-4">ISBN</label>
+                        <input asp-for=Product.ISBN class="form-control">
+                        <span asp-validation-for="Product.ISBN" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label mt-4">List Price</label>
+                        <input asp-for=Product.ListPrice class="form-control">
+                        <span asp-validation-for="Product.ListPrice" class="text -danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label mt-4">Price</label>
+                        <input asp-for=Product.Price class="form-control">
+                        <span asp-validation-for="Product.Price" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label mt-4">Price 50</label>
+                        <input asp-for=Product.Price50 class="form-control">
+                        <span asp-validation-for="Product.Price50" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label mt-4">Price 100</label>
+                        <input asp-for=Product.Price100 class="form-control">
+                        <span asp-validation-for="Product.Price100" class="text -danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label mt-4">Description</label>
+                        <input asp-for=Product.Description class="form-control">
+                        <span asp-validation-for="Product.Description" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label mt-4">Image </label>
+                        <input type="file" name="file" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label mt-4">Category</label>
+                        <select asp-for=Product.CategoryId asp-items=@Model.CategoryList class="form-select borde">
+                            <option disabled selected>--Select Ctegory--</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-2">
+                    <img src="@Model.Product.ImageUrl" alt="OOOOOOOOPS" width="100%"
+                         style=" border-radius:5px; border:1px  solid  #bbb9b9">
+                </div>
+            </div>
+
+            <br />
+            <div class="row">
+                <div class="col-6">
+                    @if (Model.Product.Id == null || Model.Product.Id == 0)
+                    {
+                        <button type="submit" class="btn btn-primary form-control">Submit</button>
+                    }
+                    else
+                    {
+                        <button type="submit" class="btn btn-primary form-control">Update</button>
+                    }
+
+                </div>
+                <div class="col-6">
+                    <a asp-controller="Product" asp-action="Index" class="btn btn-secondary border form-control">Back To Product Table </a>
+                </div>
+            </div>
+
+        </form>
+    </div>
+</div>
+

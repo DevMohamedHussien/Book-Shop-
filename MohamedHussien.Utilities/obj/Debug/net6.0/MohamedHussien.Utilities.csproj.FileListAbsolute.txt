@@ -1,0 +1,12 @@
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Utilities\bin\Debug\net6.0\MohamedHussien.Utilities.deps.json
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Utilities\bin\Debug\net6.0\MohamedHussien.Utilities.dll
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Utilities\bin\Debug\net6.0\MohamedHussien.Utilities.pdb
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Utilities\obj\Debug\net6.0\MohamedHussien.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Utilities\obj\Debug\net6.0\MohamedHussien.Utilities.AssemblyInfoInputs.cache
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Utilities\obj\Debug\net6.0\MohamedHussien.Utilities.AssemblyInfo.cs
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Utilities\obj\Debug\net6.0\MohamedHussien.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Utilities\obj\Debug\net6.0\MohamedHussien.Utilities.dll
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Utilities\obj\Debug\net6.0\refint\MohamedHussien.Utilities.dll
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Utilities\obj\Debug\net6.0\MohamedHussien.Utilities.pdb
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Utilities\obj\Debug\net6.0\ref\MohamedHussien.Utilities.dll
+C:\Users\NOBEL\source\repos\MohamedHussienWeb\MohamedHussien.Utilities\obj\Debug\net6.0\MohamedHussien.Utilities.csproj.AssemblyReference.cache

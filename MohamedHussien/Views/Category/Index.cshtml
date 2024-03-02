@@ -1,0 +1,43 @@
+﻿@model ICollection<MohamedHussien.Models.Category>
+
+@if (TempData["success"] != null)
+{
+    <h1>@TempData["success"] </h1>
+}
+<div class=" card-shadow border-0 mt-4 ">
+    <div class="card-header bg-secondry bg-gradient ml-0 py-3 bg-primary ">
+        <div class=" row ">
+            <div class=" col-16 text-center ">
+                <br>
+                <h2 class=" text-white  py-2">Category Table   </h2>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="col-4  ">
+        <a asp-controller="Category" asp-action="Create" class="btn btn-primary border col-4 form-control end">Create Category</a>
+    </div>
+</div>
+<div class=" card-body p-4 ">
+    <table class="table table-bordered table-striped">
+        <thead>
+        <th>Name</th>
+        <th>Category State</th>
+        <th> Edit  </th>
+        <th> Delete  </th>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.OrderBy(u => u.CategoryState))
+            {
+                <tr>
+                    <td class="h5 "> @item.Name </td>
+                    <td class="h5"> @item.CategoryState </td>
+                    <td><a asp-action="Update" class="mx-2 btn btn-primary" asp-route-Id="@item.Id"> <i class="bi bi-pencil-square "></i> Update </a> </td>
+                    <td> <a asp-action="Delete" class=" mx-2 btn btn-danger" asp-route-Id="@item.Id"> <i class="bi bi-trash-fill"></i> Delete </a> </td>
+                </tr>
+            }
+        </tbody>
+    </table><div />
+
+</div>
